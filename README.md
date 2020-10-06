@@ -12,3 +12,7 @@
 
 فایل tehran-areas-22-polygon.geojson : 
 شامل ۲۲ منطقه شهرداری شهر تهران می باشد
+
+
+mahalat_manategh.ods :
+map each district to one area of tehran
